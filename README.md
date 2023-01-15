@@ -1,1 +1,2 @@
+This project aims to design a dashboard where mining companies can obtain KPIs to identify risks, track performance, and optimize business processes. The KPIs in the mining sector mainly focus on truck data and bay data, which are analyzed through the KPI data generator file in the repo.
 To run the python data analysis file, download the two csv files in the repo. Make sure the two csv files and the python source file are in the same folder. 
