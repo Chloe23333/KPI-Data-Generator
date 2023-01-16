@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Data Generator.ipynb
 
-
 ADD: trucks not being used because they are not needed
 
 Generate a list that has the number of trucks needeed per day and check if the trucks are needed per day
